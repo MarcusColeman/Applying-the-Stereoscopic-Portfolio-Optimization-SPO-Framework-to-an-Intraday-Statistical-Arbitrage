@@ -1,0 +1,2 @@
+# Applying-the-Stereoscopic-Portfolio-Optimization-SPO-Framework-to-an-Intraday-Statistical-Arbitrage
+Repo of blog post created for QuantInsti entitled"Applying the Stereoscopic Portfolio Optimization(SPO) Framework to an Intraday Statistical Arbitrage Strategy". Provides introduction and walkthrough of the idea of the SPO Framework, data used in blog post(fundamental and price) as well as the original paper I wrote introducing the idea of the SPO Framework as a solution to the portfolio optimization problem.
